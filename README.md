@@ -1,0 +1,2 @@
+# Morphometric-Analysis-of-Nethravathi-Watersheds
+This study presents a comparative analysis of morphometric  parameters for two watersheds of Nethravathi river flowing in  Karnataka. Delineated watersheds from toposheet are subjected  to their physical characterization, using parameters viz; stream  order, stream length, bifurcation ratio, drainage density, stream  frequency, form factor, circulatory ratio, etc. 
